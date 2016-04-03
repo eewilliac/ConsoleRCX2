@@ -1,0 +1,6 @@
+C:\Users\ewillia\Dropbox\code\csharp\2016\ConsoleRCX2\ConsoleRCX2\bin\Debug\ConsoleRCX2.exe.config
+C:\Users\ewillia\Dropbox\code\csharp\2016\ConsoleRCX2\ConsoleRCX2\bin\Debug\ConsoleRCX2.exe
+C:\Users\ewillia\Dropbox\code\csharp\2016\ConsoleRCX2\ConsoleRCX2\bin\Debug\ConsoleRCX2.pdb
+C:\Users\ewillia\Dropbox\code\csharp\2016\ConsoleRCX2\ConsoleRCX2\obj\Debug\ConsoleRCX2.csprojResolveAssemblyReference.cache
+C:\Users\ewillia\Dropbox\code\csharp\2016\ConsoleRCX2\ConsoleRCX2\obj\Debug\ConsoleRCX2.exe
+C:\Users\ewillia\Dropbox\code\csharp\2016\ConsoleRCX2\ConsoleRCX2\obj\Debug\ConsoleRCX2.pdb
